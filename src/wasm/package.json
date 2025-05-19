@@ -1,0 +1,15 @@
+{
+  "name": "solve-ecuation",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "solve_ecuation_bg.wasm",
+    "solve_ecuation.js",
+    "solve_ecuation.d.ts"
+  ],
+  "main": "solve_ecuation.js",
+  "types": "solve_ecuation.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
